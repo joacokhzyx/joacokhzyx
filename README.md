@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Joaco</h1>
 
-<!--
-**joacokhzyx/joacokhzyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  AI Researcher • Full-Stack Developer • Feature Engineer
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building intelligent systems and scalable software.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,ts,js,react,python,java,c,cs,cpp,rust,nextjs,nodejs,tailwind,mysql,sqlite,supabase,figma,vscode,aws,git,blender" />
+</p>
+
+
+
+## Projects
+
+<p align="center">
+  Coming Soon!
+</p>
+
+
+
+## Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joacokhzyx/joacokhzyx/output/snake.svg" alt="Snake animation" />
+</p>
+
+
+
+<p align="center">
+  <sub>Code. Research. Build.</sub>
+</p>
