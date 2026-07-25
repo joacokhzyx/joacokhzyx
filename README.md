@@ -1,7 +1,7 @@
 <h1 align="center">Joaco</h1>
 
 <p align="center">
-  AI Researcher • Full-Stack Developer • Feature Engineer
+  AI Researcher / Full-Stack Developer 
 </p>
 
 <p align="center">
@@ -20,9 +20,14 @@
 
 ## Projects
 
-<p align="center">
-  Coming Soon!
-</p>
+<div align="center">
+
+| Project | Description |
+| :--- | :--- |
+| 🚀 [**Orbit**](https://github.com/joacokhzyx/orbit-lang) | Orbit is a high-performance, statically typed systems programming language engineered for high-concurrency web services, microservices, and network APIs. |
+| ⚡ [**TakyonDB**](https://github.com/joacokhzyx/takyondb) | TakyonDB is an experimental, ultra-low latency memory-mapped database that obliterates standard Inter-Process Communication (IPC) bottlenecks. |
+
+</div>
 
 
 
