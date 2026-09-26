@@ -24,8 +24,8 @@
 
 | Project | Description |
 | :--- | :--- |
-| 🚀 [**Orbit**](https://github.com/joacokhzyx/orbit-lang) | Orbit is a high-performance, statically typed systems programming language engineered for high-concurrency web services, microservices, and network APIs. |
-| ⚡ [**TakyonDB**](https://github.com/joacokhzyx/takyondb) | TakyonDB is an experimental, ultra-low latency memory-mapped database that obliterates standard Inter-Process Communication (IPC) bottlenecks. |
+| [**Orbit**](https://github.com/joacokhzyx/orbit-lang) | A compiler that compiles itself, a language built for APIs, and one binary at the end. Orbit's bet: software can be small, fast, and honest at the same time. |
+| [**TakyonDB**](https://github.com/joacokhzyx/takyondb) | TakyonDB is an experimental, ultra-low latency memory-mapped database that obliterates standard Inter-Process Communication (IPC) bottlenecks. |
 
 </div>
 
