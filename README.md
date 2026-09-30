@@ -1,18 +1,17 @@
 <h1 align="center">Joaco</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=8B8B8B&center=true&vCenter=true&width=600&lines=AI+Researcher;Full-Stack+Developer;Founder+%40+Enthropy+Labs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=8B8B8B&center=true&vCenter=true&width=600&lines=AI+Researcher;Low-Level+Software+Engineering;" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  Building capable AI systems without massive compute or data.<br>
+  Building capable systems without massive compute or data.<br>
   Systems that are more efficient and have less negative impact on our planet.
 </p>
 
 <p align="center">
-  <a href="https://github.com/joacokhzyx"><img src="https://img.shields.io/github/followers/joacokhzyx?style=flat-square&label=followers&color=1f1f1f" /></a>
-  <img src="https://img.shields.io/badge/San_Luis,_Argentina-1f1f1f?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Enthropy_Labs-1f1f1f?style=flat-square" />
+  <img src="https://img.shields.io/badge/Argentina-1f1f1f?style=square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Enthropy_Labs-1f1f1f?style=square" />
 </p>
 
 
@@ -66,20 +65,17 @@
 
 </div>
 
+
 <p align="center">
   <a href="https://github.com/joacokhzyx/orbit-lang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joacokhzyx&repo=orbit-lang&theme=transparent&hide_border=true" /></a>
   <a href="https://github.com/joacokhzyx/takyondb"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joacokhzyx&repo=takyondb&theme=transparent&hide_border=true" /></a>
 </p>
 
+<div align="center">
 
-### Activity
+  <sub>Support me with your star!</sub>
+</div>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joacokhzyx/joacokhzyx/output/snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/joacokhzyx/joacokhzyx/output/snake.svg" alt="Snake animation" />
-  </picture>
-</p>
 
 ### Connect
 
